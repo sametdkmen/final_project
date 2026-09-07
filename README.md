@@ -60,9 +60,6 @@ adları İngilizcedir.
 
 ## API
 
-Uygulama `http://kasimadalan.pe.hu/yemekler` altındaki bootcamp servisini
-kullanır:
-
 | Uç nokta | İşlev |
 | --- | --- |
 | `tumYemekleriGetir.php` | Menüyü listeler |
